@@ -1,5 +1,7 @@
 The competition is all about creating a simple model that predicts which passengers survived the Titanic which was very shocking and one of the biggest disasters in the world which happened in April, 1912.
 
+Random Forest Classifier is used  and the modifications in the features are made to improve accuracy from 77.5 percent to 78.46 percent.
+
 The total data is split into 
 1. train.csv
 2. test.csv
